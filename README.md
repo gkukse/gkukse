@@ -2,7 +2,7 @@
 - 🌱 I’m currently learning Computer Vision implementation with Deep Learning
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/gintare-kuksenaite-06ab03158/)
 - ⚡ Fun fact: I'll never stop being amazed at how dogs refuse to drink tap water, but find random puddles and streams the most delicious.
-- 
+  
 <!--
 **gkukse/gkukse** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
